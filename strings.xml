@@ -901,7 +901,7 @@
 
 	<!-- Button stuff -->
 	<string name="bt_start_trip">
-		Pradëti
+		PradÄ—ti
 	</string>
 
 	<string name="bt_stop_trip">
@@ -913,7 +913,7 @@
 	</string>
 
 	<string name="bt_resume_trip">
-		Tæsti
+		TÄ™sti
 	</string>
 
 	<string name="bt_unlock">
@@ -921,19 +921,19 @@
 	</string>
 
 	<string name="bt_start_sensors">
-		Ájungti daviklius
+		Ä®jungti daviklius
 	</string>
 
 	<string name="bt_start_gps">
-		Ájungti GPS
+		Ä®jungti GPS
 	</string>
 
 	<string name="bt_stop_sensors">
-		Iðjungti daviklius
+		IÅ¡jungti daviklius
 	</string>
 
 	<string name="bt_stop_gps">
-		Áðjungti GPS
+		Ä®jungti GPS
 	</string>
 
 	<string name="bt_yes">
@@ -949,7 +949,7 @@
 	</string>
 
 	<string name="bt_trip">
-		Kelionë
+		KelionÄ—
 	</string>
 
 	<string name="bt_bike">
@@ -961,7 +961,7 @@
 	</string>
 
 	<string name="bt_ride_info">
-		Kelionës info
+		KelionÄ—s info
 	</string>
 
 	<string name="bt_plot">
@@ -973,15 +973,15 @@
 	</string>
 
 	<string name="bt_route">
-		Marðrutas
+		MarÅ¡rutas
 	</string>
 
 	<string name="bt_send">
-		Siøsti
+		SiÅ³sti
 	</string>
 
 	<string name="bt_upload">
-		Ákelti
+		Ä®kelti
 	</string>
 
 	<string name="bt_uploading">
@@ -1001,7 +1001,7 @@
 	</string>
 
 	<string name="bt_add_sensor">
-		Prodëti daviklá
+		PridÄ—ti daviklÄ¯
 	</string>
 
 	<string name="bt_ok">
@@ -1013,11 +1013,11 @@
 	</string>
 
 	<string name="bt_save_as">
-		Iðsaugoti kaip
+		IÅ¡saugoti kaip
 	</string>
 
 	<string name="bt_load">
-		Uþkrauti
+		UÅ¾krauti
 	</string>
 
 	<string name="bt_follow">
@@ -1025,7 +1025,7 @@
 	</string>
 
 	<string name="bt_cancel_follow">
-		Stop
+		Stabdyti
 	</string>
 
 	<string name="bt_follow_plus">
@@ -1041,7 +1041,7 @@
 	</string>
 
 	<string name="bt_set_route">
-		Nustatyti marðrutà
+		Nustatyti marÅ¡rutÄ…
 	</string>
 
 	<string name="bt_new">
