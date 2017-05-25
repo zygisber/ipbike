@@ -901,111 +901,111 @@
 
 	<!-- Button stuff -->
 	<string name="bt_start_trip">
-		Start trip
+		Pradëti
 	</string>
 
 	<string name="bt_stop_trip">
-		Stop trip
+		Stabdyti
 	</string>
 
 	<string name="bt_pause_trip">
-		Pause trip
+		Pristabdyti
 	</string>
 
 	<string name="bt_resume_trip">
-		Resume trip
+		Tæsti
 	</string>
 
 	<string name="bt_unlock">
-		Unlock
+		Atrakinti
 	</string>
 
 	<string name="bt_start_sensors">
-		Start sensors
+		Ájungti daviklius
 	</string>
 
 	<string name="bt_start_gps">
-		Start GPS
+		Ájungti GPS
 	</string>
 
 	<string name="bt_stop_sensors">
-		Stop sensors
+		Iðjungti daviklius
 	</string>
 
 	<string name="bt_stop_gps">
-		Stop GPS
+		Áðjungti GPS
 	</string>
 
 	<string name="bt_yes">
-		Yes
+		Taip
 	</string>
 
 	<string name="bt_no">
-		No
+		Ne
 	</string>
 
 	<string name="bt_lap">
-		Lap
+		Ratas
 	</string>
 
 	<string name="bt_trip">
-		Trip
+		Kelionë
 	</string>
 
 	<string name="bt_bike">
-		Bike
+		Dviratis
 	</string>
 
 	<string name="bt_all">
-		All
+		Visi
 	</string>
 
 	<string name="bt_ride_info">
-		Ride info
+		Kelionës info
 	</string>
 
 	<string name="bt_plot">
-		Plot
+		Grafikas
 	</string>
 
 	<string name="bt_laps">
-		Laps
+		Ratai
 	</string>
 
 	<string name="bt_route">
-		Route
+		Marðrutas
 	</string>
 
 	<string name="bt_send">
-		Send
+		Siøsti
 	</string>
 
 	<string name="bt_upload">
-		Upload
+		Ákelti
 	</string>
 
 	<string name="bt_uploading">
-		Uploading
+		Keliama
 	</string>
 
 	<string name="bt_distance">
-		Distance
+		Atstumas
 	</string>
 
 	<string name="bt_time">
-		Time
+		Laikas
 	</string>
 
 	<string name="bt_colors">
-		Colors
+		Spalvos
 	</string>
 
 	<string name="bt_add_sensor">
-		Add sensor
+		Prodëti daviklá
 	</string>
 
 	<string name="bt_ok">
-		OK
+		Gerai
 	</string>
 
 	<string name="bt_centre">
@@ -1013,15 +1013,15 @@
 	</string>
 
 	<string name="bt_save_as">
-		Save as
+		Iðsaugoti kaip
 	</string>
 
 	<string name="bt_load">
-		Load
+		Uþkrauti
 	</string>
 
 	<string name="bt_follow">
-		Follow
+		Sekti
 	</string>
 
 	<string name="bt_cancel_follow">
@@ -1037,15 +1037,15 @@
 	</string>
 
 	<string name="bt_prefs">
-		Settings
+		Nustatymai
 	</string>
 
 	<string name="bt_set_route">
-		Set route
+		Nustatyti marðrutà
 	</string>
 
 	<string name="bt_new">
-		New
+		Nauja
 	</string>
 
 	<!-- Status -->
